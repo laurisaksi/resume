@@ -29,7 +29,6 @@
       "institution": "Aalto University"
     },
     {
-      "endDate": "Present",
       "startDate": "2023-09-01",
       "area": "Software Engineering (incomplete)",
       "studyType": "Master's degree",
@@ -77,7 +76,9 @@
       "startDate": "2014-04-01"
     },
     {
-        "highlights": "Test"
+        "highlights": [
+            "Test"
+        ]
     }
   ],
   "interests": [
