@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Lauri Saksi",
+    "label": "Full-Stack Developer",
+    "image": "https://picsum.photos/200/300",
+    "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
+    "email": "lauri.saksi@gmail.com",
+    "location": {
+      "city": "Espoo",
+      "countryCode": "FI"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/laurisaksi",
+        "username": "laurisaksi",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2022-11-01",
+      "startDate": "2017-09-01",
+      "area": "Computer Science",
+      "studyType": "Bachelors degree",
+      "institution": "Aalto University"
+    },
+    {
+      "endDate": "Present",
+      "startDate": "2023-09-01",
+      "area": "Software Engineering (incomplete)",
+      "studyType": "Master's degree",
+      "institution": "Aalto University"
+    },
+    {
+      "endDate": "2020-05-01",
+      "startDate": "2020-01-01",
+      "area": "Business Administration and Management, General (Exchange semester)",
+      "studyType": "Master's degree",
+      "institution": "Université Savoie Mont Blanc"
+    }
+  ],
+  "references": [
+    {
+      "reference": "TODO",
+      "name": "TODO"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML / JSX",
+        "Javascript / Typescript",
+        "React",
+        "Flutter"
+      ],
+      "level": "Mid-Senior",
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["Node", "Python", "Postgres", "Redis"],
+      "level": "Mid-Senior",
+      "name": "Backend"
+    }
+  ],
+  "work": [
+    {
+      "highlights": ["This resume is built with JSON Resume", "Over 3000 stars on Github", "Community developed themes", "Tens of thousands of users"],
+      "summary": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
+      "website": "http://jsonresume.org",
+      "pinned": true,
+      "name": "JSON Resume",
+      "position": "Founder",
+      "startDate": "2014-04-01"
+    },
+    {
+        "highlights": "Test"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Golf"
+    },
+    {
+      "name": "Ice hockey"
+    },
+    {
+        "name": "Sports",
+        "keywords": [
+            "Golf",
+            "Ice Hockey",
+            "Cycling",
+            "Running",
+            "Gym"
+        ]
+    }
+  ]
+}
