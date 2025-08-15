@@ -1,9 +1,10 @@
 {
   "meta": {
-    "theme": "elegant"
+    "theme": "even"
   },
   "basics": {
     "name": "Lauri Saksi",
+    "phone": "+358 50 405 3332",
     "label": "Full-Stack Developer",
     "image": "https://picsum.photos/200/300",
     "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
@@ -16,7 +17,7 @@
       {
         "url": "https://github.com/laurisaksi",
         "username": "laurisaksi",
-        "network": "github"
+        "network": "GitHub"
       }
     ]
   },
@@ -44,8 +45,8 @@
   ],
   "references": [
     {
-      "reference": "TODO",
-      "name": "TODO"
+      "reference": "Despite his young age, Lauri Saksi has demonstrated exceptional diligence, flexibility, initiative, and precision in all the tasks assigned to him. Lauri still works for us on a seasonal basis, as needed, and always when we need him most! You can always rely on Lauri! You could even leave your wallet with Lauri without worrying, which hopefully illustrates how much you can trust him!",
+      "name": "Ville Saarikko (K-retailer)"
     }
   ],
   "skills": [
@@ -81,13 +82,17 @@
         ]
     }
   ],
+  "volunteer": [
+    {
+        "organization": "Tietokilta Ry",
+        "position": "Account Manager",
+        "url": "https://tietokilta.fi/",
+        "startDate": "2019-01-01",
+        "endDate": "2019-12-01",
+        "summary": "Managed relationships and negotiated partnership agreements as account manager for two of Tietokilta's partner companies."
+    }
+  ],
   "interests": [
-    {
-      "name": "Golf"
-    },
-    {
-      "name": "Ice hockey"
-    },
     {
         "name": "Sports",
         "keywords": [
@@ -96,6 +101,18 @@
             "Cycling",
             "Running",
             "Gym"
+        ]
+    },
+    {
+        "name": "Summer cottage",
+        "keywords": [
+            "todo"
+        ]
+    },
+    {
+        "name": "Boating",
+        "keywords": [
+            "todo"
         ]
     }
   ]
