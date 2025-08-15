@@ -1,13 +1,13 @@
 {
   "meta": {
-    "theme": "even"
+    "theme": "elegant"
   },
   "basics": {
     "name": "Lauri Saksi",
     "phone": "+358 50 405 3332",
     "label": "Full-Stack Developer",
     "image": "https://picsum.photos/200/300",
-    "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
+    "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked at startup, consulting and in-house so I am used to wearing many hats. My strenghts are problem solving,  , understanding customer/business needs",
     "email": "lauri.saksi@gmail.com",
     "location": {
       "city": "Espoo",
@@ -18,6 +18,11 @@
         "url": "https://github.com/laurisaksi",
         "username": "laurisaksi",
         "network": "GitHub"
+      },
+      {
+        "url": "https://www.linkedin.com/in/lauri-saksi-91a074152/",
+        "username": "Lauri Saksi",
+        "network": "LinkedIn"
       }
     ]
   },
@@ -47,6 +52,10 @@
     {
       "reference": "Despite his young age, Lauri Saksi has demonstrated exceptional diligence, flexibility, initiative, and precision in all the tasks assigned to him. Lauri still works for us on a seasonal basis, as needed, and always when we need him most! You can always rely on Lauri! You could even leave your wallet with Lauri without worrying, which hopefully illustrates how much you can trust him!",
       "name": "Ville Saarikko (K-retailer)"
+    },
+    {
+        "reference": "Lauri has demonstrated that he tackles tasks enthusiastically, focusing on problem solving by selecting the appropriate tools and methods for the situation. His genuine interest in both the project at hand and in removing various obstacles is creditable. Lauri's teamwork skills and language skills are excellent. His manner of communication is positive, and he creates a cheerful atmosphere around him.",
+        "name": "Petri Ikonen (Senior Project Manager)"
     }
   ],
   "skills": [
@@ -68,18 +77,14 @@
   ],
   "work": [
     {
-      "highlights": ["This resume is built with JSON Resume", "Over 3000 stars on Github", "Community developed themes", "Tens of thousands of users"],
-      "summary": "JSON Resume is a community driven open source initiative to create a JSON based standard for resumes. There is no reason why there can't be a common standard for writing a resume that can be extended with an ecosystem of open source tools.",
-      "website": "http://jsonresume.org",
-      "pinned": true,
-      "name": "JSON Resume",
-      "position": "Founder",
-      "startDate": "2014-04-01"
-    },
-    {
-        "highlights": [
-            "Test"
-        ]
+        "highlights": ["RobotFramework", "Java", "Test Automation"],
+        "summary": "",
+        "website": "https://evitec.com/fi/",
+        "pinned": false,
+        "name": "Profit Software Ltd (Evitec Solutions)",
+        "position": "Software Developer Trainee",
+        "startDate": "2018-06-01",
+        "endDate": "2018-08-31"
     }
   ],
   "volunteer": [
@@ -104,16 +109,10 @@
         ]
     },
     {
-        "name": "Summer cottage",
-        "keywords": [
-            "todo"
-        ]
+        "name": "Summer cottage"
     },
     {
-        "name": "Boating",
-        "keywords": [
-            "todo"
-        ]
+        "name": "Boating"
     }
   ]
 }
