@@ -3,7 +3,7 @@ name: Update Resume Gist
 on: push
 
 jobs:
-  update-resume-gist:
+  update-EN-resume-gist:
     runs-on: ubuntu-latest 
     steps:
     - name: Checkout Repository
