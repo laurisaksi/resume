@@ -7,7 +7,7 @@
     "phone": "+358 50 405 3332",
     "label": "Full-Stack Developer",
     "image": "https://picsum.photos/200/300",
-    "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked at startup, consulting and in-house so I am used to wearing many hats. My strenghts are problem solving,  , understanding customer/business needs",
+    "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked at startup, consulting and in-house so I am used to wearing many hats. My strenghts are problem solving, collaboration and understanding customer/business needs",
     "email": "lauri.saksi@gmail.com",
     "location": {
       "city": "Espoo",
@@ -54,18 +54,13 @@
       "name": "Ville Saarikko (K-retailer)"
     },
     {
-        "reference": "Lauri has demonstrated that he tackles tasks enthusiastically, focusing on problem solving by selecting the appropriate tools and methods for the situation. His genuine interest in both the project at hand and in removing various obstacles is creditable. Lauri's teamwork skills and language skills are excellent. His manner of communication is positive, and he creates a cheerful atmosphere around him.",
-        "name": "Petri Ikonen (Senior Project Manager)"
+      "reference": "Lauri has demonstrated that he tackles tasks enthusiastically, focusing on problem solving by selecting the appropriate tools and methods for the situation. His genuine interest in both the project at hand and in removing various obstacles is creditable. Lauri's teamwork skills and language skills are excellent. His manner of communication is positive, and he creates a cheerful atmosphere around him.",
+      "name": "Petri Ikonen (Senior Project Manager)"
     }
   ],
   "skills": [
     {
-      "keywords": [
-        "HTML / JSX",
-        "Javascript / Typescript",
-        "React",
-        "Flutter"
-      ],
+      "keywords": ["HTML / JSX", "Javascript / Typescript", "React", "Flutter"],
       "level": "Mid-Senior",
       "name": "Frontend"
     },
@@ -73,46 +68,84 @@
       "keywords": ["Node", "Python", "Postgres", "Redis"],
       "level": "Mid-Senior",
       "name": "Backend"
+    },
+    {
+      "name": "Soft skills",
+      "keywords": ["Collaboration", "Problem solving"]
     }
   ],
   "work": [
     {
-        "highlights": ["RobotFramework", "Java", "Test Automation"],
-        "summary": "",
-        "website": "https://evitec.com/fi/",
-        "pinned": false,
-        "name": "Profit Software Ltd (Evitec Solutions)",
-        "position": "Software Developer Trainee",
-        "startDate": "2018-06-01",
-        "endDate": "2018-08-31"
+      "highlights": ["TODO"],
+      "summary": "Worked during secondary and high school as part-time employee",
+      "website": "https://www.k-ruoka.fi/k-supermarket",
+      "pinned": false,
+      "name": "K-Supermarket",
+      "position": "Cashier / Shift manager",
+      "startDate": "2013-01-01",
+      "endDate": "2017-09-01"
+    },
+    {
+      "highlights": ["RobotFramework", "Java", "Test Automation"],
+      "summary": "TODO",
+      "website": "https://evitec.com/fi/",
+      "pinned": false,
+      "name": "Profit Software Ltd (Evitec Solutions)",
+      "position": "Software Developer Trainee",
+      "startDate": "2018-06-01",
+      "endDate": "2018-08-31"
+    },
+    {
+      "highlights": ["JavaScript", "BI"],
+      "summary": "TODO",
+      "website": "https://evitec.com/fi/",
+      "pinned": false,
+      "name": "Profit Software Ltd (Evitec Solutions)",
+      "position": "Business Intelligence Developer Trainee",
+      "startDate": "2019-05-01",
+      "endDate": "2019-08-31"
+    },
+    {
+      "highlights": ["RobotFramework", "Java", "Test Automation"],
+      "summary": "",
+      "website": "https://evitec.com/fi/",
+      "pinned": false,
+      "name": "Profit Software Ltd (Evitec Solutions)",
+      "position": "Software Developer Trainee",
+      "startDate": "2018-06-01",
+      "endDate": "2018-08-31"
+    },
+    {
+      "highlights": ["RobotFramework", "Java", "Test Automation"],
+      "summary": "",
+      "website": "https://evitec.com/fi/",
+      "pinned": false,
+      "name": "Profit Software Ltd (Evitec Solutions)",
+      "position": "Software Developer Trainee",
+      "startDate": "2018-06-01",
+      "endDate": "2018-08-31"
     }
   ],
   "volunteer": [
     {
-        "organization": "Tietokilta Ry",
-        "position": "Account Manager",
-        "url": "https://tietokilta.fi/",
-        "startDate": "2019-01-01",
-        "endDate": "2019-12-01",
-        "summary": "Managed relationships and negotiated partnership agreements as account manager for two of Tietokilta's partner companies."
+      "organization": "Tietokilta Ry",
+      "position": "Account Manager",
+      "url": "https://tietokilta.fi/",
+      "startDate": "2019-01-01",
+      "endDate": "2019-12-01",
+      "summary": "Managed relationships and negotiated partnership agreements as account manager for two of Tietokilta's partner companies."
     }
   ],
   "interests": [
     {
-        "name": "Sports",
-        "keywords": [
-            "Golf",
-            "Ice Hockey",
-            "Cycling",
-            "Running",
-            "Gym"
-        ]
+      "name": "Sports",
+      "keywords": ["Golf", "Ice Hockey", "Cycling", "Running", "Gym"]
     },
     {
-        "name": "Summer cottage"
+      "name": "Summer cottage"
     },
     {
-        "name": "Boating"
+      "name": "Boating"
     }
   ]
 }
