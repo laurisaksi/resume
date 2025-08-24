@@ -6,8 +6,8 @@
     "name": "Lauri Saksi",
     "phone": "+358 50 405 3332",
     "label": "Full-Stack Developer",
-    "image": "https://picsum.photos/200/300",
-    "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked at startup, consulting and in-house so I am used to wearing many hats. My strenghts are problem solving, collaboration and understanding customer/business needs",
+    "image": "https://media.licdn.com/dms/image/v2/C4E03AQG_T6beEOG2kA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1528055411911?e=1758758400&v=beta&t=YRYKXqmyZhDsV6uhTEtRI10rJUVqSxxX7-UH46fyO3w",
+    "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked at startup, consulting and in-house so I am used to wearing many hats. I enjoy when completing a task requires me to learn something new. My strengths are problem solving, collaboration and understanding customer/business needs.",
     "email": "lauri.saksi@gmail.com",
     "location": {
       "city": "Espoo",
@@ -28,109 +28,167 @@
   },
   "education": [
     {
-      "endDate": "2022-11-01",
-      "startDate": "2017-09-01",
-      "area": "Computer Science",
+      "institution": "Aalto University",
       "studyType": "Bachelors degree",
-      "institution": "Aalto University"
+      "area": "Computer Science",
+      "startDate": "2017-09-01",
+      "endDate": "2022-11-01"
     },
     {
-      "startDate": "2023-09-01",
+      "institution": "Aalto University",
+      "studyType": "Master's degree",
       "area": "Software Engineering (incomplete)",
-      "studyType": "Master's degree",
-      "institution": "Aalto University"
+      "startDate": "2023-09-01"
     },
     {
-      "endDate": "2020-05-01",
-      "startDate": "2020-01-01",
-      "area": "Business Administration and Management, General (Exchange semester)",
+      "institution": "Université Savoie Mont Blanc",
       "studyType": "Master's degree",
-      "institution": "Université Savoie Mont Blanc"
+      "area": "Business Administration and Management, General (Exchange semester)",
+      "startDate": "2020-01-01",
+      "endDate": "2020-05-01"
     }
   ],
   "references": [
     {
-      "reference": "Despite his young age, Lauri Saksi has demonstrated exceptional diligence, flexibility, initiative, and precision in all the tasks assigned to him. Lauri still works for us on a seasonal basis, as needed, and always when we need him most! You can always rely on Lauri! You could even leave your wallet with Lauri without worrying, which hopefully illustrates how much you can trust him!",
-      "name": "Ville Saarikko (K-retailer)"
-    },
-    {
       "reference": "Lauri has demonstrated that he tackles tasks enthusiastically, focusing on problem solving by selecting the appropriate tools and methods for the situation. His genuine interest in both the project at hand and in removing various obstacles is creditable. Lauri's teamwork skills and language skills are excellent. His manner of communication is positive, and he creates a cheerful atmosphere around him.",
       "name": "Petri Ikonen (Senior Project Manager)"
+    },
+    {
+      "reference": "Despite his young age, Lauri Saksi has demonstrated exceptional diligence, flexibility, initiative, and precision in all the tasks assigned to him. You can always rely on Lauri! You could even leave your wallet with Lauri without worrying, which hopefully illustrates how much you can trust him!",
+      "name": "Ville Saarikko (K-retailer)"
     }
   ],
   "skills": [
     {
-      "keywords": ["HTML / JSX", "Javascript / Typescript", "React", "Flutter"],
-      "level": "Mid-Senior",
-      "name": "Frontend"
+      "name": "Programming Languages",
+      "keywords": [
+        "JavaScript / TypeScript",
+        "Python",
+        "Kotlin",
+        "Java",
+        "Dart"
+      ]
     },
     {
-      "keywords": ["Node", "Python", "Postgres", "Redis"],
-      "level": "Mid-Senior",
-      "name": "Backend"
+      "name": "Frontend",
+      "keywords": ["React", "Flutter", "Material UI", "Shadcn"]
     },
     {
-      "name": "Soft skills",
-      "keywords": ["Collaboration", "Problem solving"]
+      "name": "Backend",
+      "keywords": ["Node", "Express", "Django"]
+    },
+    {
+      "name": "Cloud",
+      "keywords": ["Firebase", "GCP", "Azure"]
+    },
+    {
+      "name": "DevOps",
+      "keywords": ["Docker", "Kubernetes", "CI/CD"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Git", "Figma", "Postman"]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": ["MacOS", "Linux"]
     }
   ],
   "work": [
     {
-      "highlights": ["TODO"],
-      "summary": "Worked during secondary and high school as part-time employee",
-      "website": "https://www.k-ruoka.fi/k-supermarket",
-      "pinned": false,
-      "name": "K-Supermarket",
-      "position": "Cashier / Shift manager",
-      "startDate": "2013-01-01",
-      "endDate": "2017-09-01"
+      "name": "Knuut Oy",
+      "startDate": "2024-01-01",
+      "endDate": "2025-05-31",
+      "position": "Co-Founder & Head of Product",
+      "summary": "Co-Founded a startup company building SaaS for early childhood education. I designed and created the product from scratch and elicited requirements from our pilot customer. At the time of my departure, there were almost 200 daily active users.",
+      "highlights": [
+        "Mobile app for substitutes to book shifts.",
+        "App for real-time clocking in and out children and employees.",
+        "An admin platform for managing employees, children, substitute shifts and payroll while providing overview of all daycare units."
+      ],
+      "pinned": false
     },
     {
-      "highlights": ["RobotFramework", "Java", "Test Automation"],
-      "summary": "TODO",
-      "website": "https://evitec.com/fi/",
+      "name": "Fit Panda Technologies Oy",
+      "summary": "Member of the board",
+      "website": "https://fitpanda.fi",
       "pinned": false,
-      "name": "Profit Software Ltd (Evitec Solutions)",
-      "position": "Software Developer Trainee",
-      "startDate": "2018-06-01",
-      "endDate": "2018-08-31"
+      "position": "Partner",
+      "startDate": "2024-01-01"
     },
     {
-      "highlights": ["JavaScript", "BI"],
-      "summary": "TODO",
+      "name": "Aalto University",
+      "startDate": "2021-01-01",
+      "endDate": "2021-04-30",
+      "position": "Teaching Assistant",
+      "summary": "Teaching assistant for the course CS-E4800 - Artificial Intelligence",
+      "highlights": [
+        "Python",
+        "Machine Learning",
+        "AI",
+        "Deep Learning",
+        "Neural Networks",
+        "Reinforcement Learning"
+      ],
+      "pinned": false
+    },
+    {
+      "name": "Fit Panda Technologies Oy",
+      "summary": "Multiple customer projects and internal projects.",
+      "website": "https://fitpanda.fi",
+      "position": "Software Developer",
+      "startDate": "2020-09-01",
+      "endDate": "2024-01-01",
+      "highlights": [
+        "Implementing Kafka Streams and UI for monitoring app that combined data from dozens of IoT devices.",
+        "Implementation of OICD authorization server for client organization.",
+        "UI components for Design System.",
+        "Mobile app for maintenance instructions and measurements.",
+        "Maintenance of systems that were not under active development."
+      ],
+      "pinned": false
+    },
+    {
+      "summary": "Advised SMEs on securing funding to navigate the COVID-19 economy. Handled client negotiations, sales, and project and budget planning.",
+      "name": "Sterly Oy",
+      "position": "Account Project Manager",
+      "startDate": "2020-04-01",
+      "endDate": "2020-08-31",
+      "pinned": false
+    },
+    {
+      "summary": "My tasks focused on developing services for the Equity Savings Account, where our team of three conducted a preliminary business impact study, facilitated customer workshops to define requirements and prepared project plans and documentation. Later we presented results to clients and internal stakeholders and gathering feedback for improvements.",
       "website": "https://evitec.com/fi/",
-      "pinned": false,
       "name": "Profit Software Ltd (Evitec Solutions)",
       "position": "Business Intelligence Developer Trainee",
       "startDate": "2019-05-01",
-      "endDate": "2019-08-31"
+      "endDate": "2019-08-31",
+      "pinned": false
     },
     {
-      "highlights": ["RobotFramework", "Java", "Test Automation"],
-      "summary": "",
+      "summary": "I participated in daily Scrum-based project work and was responsible for creating user stories and test cases, implementing automated tests with Robot Framework, managing version control with Git, and monitoring builds with Jenkins. In addition, I contributed to the preparation of team work plans and presented project results in team meetings.",
       "website": "https://evitec.com/fi/",
-      "pinned": false,
       "name": "Profit Software Ltd (Evitec Solutions)",
       "position": "Software Developer Trainee",
       "startDate": "2018-06-01",
-      "endDate": "2018-08-31"
+      "endDate": "2018-08-31",
+      "pinned": false
     },
     {
-      "highlights": ["RobotFramework", "Java", "Test Automation"],
-      "summary": "",
-      "website": "https://evitec.com/fi/",
-      "pinned": false,
-      "name": "Profit Software Ltd (Evitec Solutions)",
-      "position": "Software Developer Trainee",
-      "startDate": "2018-06-01",
-      "endDate": "2018-08-31"
+      "name": "K-Supermarket",
+      "website": "https://www.k-ruoka.fi/k-supermarket",
+      "summary": "Worked part-time during secondary and high school",
+      "position": "Cashier / Shift Manager",
+      "startDate": "2013-01-01",
+      "endDate": "2017-09-01",
+      "pinned": false
     }
   ],
   "volunteer": [
     {
       "organization": "Tietokilta Ry",
-      "position": "Account Manager",
       "url": "https://tietokilta.fi/",
+      "position": "Account Manager",
       "startDate": "2019-01-01",
       "endDate": "2019-12-01",
       "summary": "Managed relationships and negotiated partnership agreements as account manager for two of Tietokilta's partner companies."
@@ -140,12 +198,16 @@
     {
       "name": "Sports",
       "keywords": ["Golf", "Ice Hockey", "Cycling", "Running", "Gym"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "fluency": "Native speaker"
     },
     {
-      "name": "Summer cottage"
-    },
-    {
-      "name": "Boating"
+      "language": "English",
+      "fluency": "Fluent"
     }
   ]
 }
