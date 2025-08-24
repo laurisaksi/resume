@@ -4,18 +4,23 @@
   "scripts": {
     "html-fi": "resumed --theme jsonresume-theme-even --output fi/resume.html fi/resume.json",
     "html-en": "resumed --theme jsonresume-theme-elegant --output en/resume.html en/resume.json",
+    "pdf-fi": "resumed export fi/resume.json --theme jsonresume-theme-even --output fi/resume.pdf ",
+    "pdf-en": "resumed export en/resume.json --theme jsonresume-theme-elegant --output en/resume.pdf",
+    "validate-fi": "resumed validate fi/resume.json",
+    "validate-en": "resumed validate en/resume.json",
     "lint": "prettier --check .",
     "lint:fix": "prettier --write .",
     "prepare": "husky"
   },
   "devDependencies": {
-    "prettier": "^3.6.2",
     "husky": "^9.0.11",
-    "lint-staged": "^15.2.2"
+    "lint-staged": "^15.2.2",
+    "prettier": "^3.6.2"
   },
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
     "jsonresume-theme-even": "^0.23.0",
+    "puppeteer-core": "^24.17.0",
     "resumed": "^6.0.0"
   }
 }
