@@ -6,6 +6,8 @@ on:
     paths:
       - 'fi/resume.json'
       - '.github/workflows/deploy-fi-resume.yml'
+      - 'package.json'
+      - 'package-lock.json'
   workflow_dispatch:
 
 permissions:
@@ -23,6 +25,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -30,8 +34,19 @@ jobs:
           node-version: '22'
           cache: 'npm'
 
+      - name: Cache npm dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.npm
+            node_modules
+            */*/node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
       - name: Install Dependencies
-        run: npm ci
+        run: npm ci --prefer-offline --no-audit
 
       - name: Validate Resume
         run: npm run validate-fi
