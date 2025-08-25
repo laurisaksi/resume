@@ -1,13 +1,13 @@
 {
   "meta": {
-    "theme": "even"
+    "theme": "elegant"
   },
   "basics": {
     "name": "Lauri Saksi",
     "phone": "+358 50 405 3332",
-    "label": "Full-Stack Kehittäjä",
-    "image": "https://picsum.photos/200/300",
-    "summary": "I'm a full stack web developer who can build apps from the ground up. I've worked at startup, consulting and in-house so I am used to wearing many hats. My strenghts are problem solving, collaboration and understanding customer/business needs",
+    "label": "Full-Stack Developer",
+    "image": "https://media.licdn.com/dms/image/v2/D4D03AQGs9BDccwb5eg/profile-displayphoto-crop_800_800/B4DZjgCiMdGkAI-/0/1756105418907?e=1758758400&v=beta&t=uOP8NoRqbyN1F1Tf3f7Ltzzs0uvLewHTTkneQ9YIZyg",
+    "summary": "This is a test.",
     "email": "lauri.saksi@gmail.com",
     "location": {
       "city": "Espoo",
@@ -28,109 +28,173 @@
   },
   "education": [
     {
-      "endDate": "2022-11-01",
+      "institution": "Aalto University",
+      "studyType": "Bachelor's degree",
+      "area": "Computer Science",
       "startDate": "2017-09-01",
-      "area": "Tietotekniikka",
-      "studyType": "Kandidaatin tutkinto",
-      "institution": "Aalto-yliopisto"
+      "endDate": "2022-11-01"
     },
     {
-      "startDate": "2023-09-01",
-      "area": "Software Engineering (kesken)",
-      "studyType": "Masterin tutkinto",
-      "institution": "Aalto-yliopisto"
+      "institution": "Aalto University",
+      "studyType": "Master's degree",
+      "area": "Software Engineering",
+      "startDate": "2023-09-01"
     },
     {
-      "endDate": "2020-05-01",
-      "startDate": "2020-01-01",
+      "institution": "Université Savoie Mont Blanc",
+      "studyType": "Master's degree",
       "area": "Business Administration and Management, General (Exchange semester)",
-      "studyType": "Masterin tutkinto",
-      "institution": "Université Savoie Mont Blanc"
+      "startDate": "2020-01-01",
+      "endDate": "2020-05-01"
     }
   ],
   "references": [
     {
-      "reference": "Despite his young age, Lauri Saksi has demonstrated exceptional diligence, flexibility, initiative, and precision in all the tasks assigned to him. Lauri still works for us on a seasonal basis, as needed, and always when we need him most! You can always rely on Lauri! You could even leave your wallet with Lauri without worrying, which hopefully illustrates how much you can trust him!",
-      "name": "Ville Saarikko (K-kauppias)"
-    },
-    {
       "reference": "Lauri has demonstrated that he tackles tasks enthusiastically, focusing on problem solving by selecting the appropriate tools and methods for the situation. His genuine interest in both the project at hand and in removing various obstacles is creditable. Lauri's teamwork skills and language skills are excellent. His manner of communication is positive, and he creates a cheerful atmosphere around him.",
       "name": "Petri Ikonen (Senior Project Manager)"
+    },
+    {
+      "reference": "Despite his young age, Lauri Saksi has demonstrated exceptional diligence, flexibility, initiative, and precision in all the tasks assigned to him. You can always rely on Lauri! You could even leave your wallet with Lauri without worrying, which hopefully illustrates how much you can trust him!",
+      "name": "Ville Saarikko (K-retailer)"
     }
   ],
   "skills": [
     {
-      "keywords": ["HTML / JSX", "Javascript / Typescript", "React", "Flutter"],
-      "level": "Mid-Senior",
-      "name": "Frontend"
+      "name": "Programming Languages",
+      "keywords": [
+        "JavaScript / TypeScript",
+        "Python",
+        "Kotlin",
+        "Scala",
+        "Java",
+        "Dart"
+      ]
     },
     {
-      "keywords": ["Node", "Python", "Postgres", "Redis"],
-      "level": "Mid-Senior",
-      "name": "Backend"
+      "name": "Frontend",
+      "keywords": ["React", "Flutter", "Material UI", "Shadcn"]
     },
     {
-      "name": "Soft skills",
-      "keywords": ["Collaboration", "Problem solving"]
+      "name": "Backend",
+      "keywords": ["Node", "Express", "Django"]
+    },
+    {
+      "name": "Cloud",
+      "keywords": ["Firebase", "GCP", "Azure"]
+    },
+    {
+      "name": "DevOps",
+      "keywords": ["Docker", "Kubernetes", "CI/CD"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Git", "Figma", "Postman"]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": ["MacOS", "Linux"]
     }
   ],
   "work": [
     {
-      "highlights": ["TODO"],
-      "summary": "Worked during secondary and high school as part-time employee",
-      "website": "https://www.k-ruoka.fi/k-supermarket",
-      "pinned": false,
-      "name": "K-Supermarket",
-      "position": "Cashier / Shift manager",
-      "startDate": "2013-01-01",
-      "endDate": "2017-09-01"
+      "name": "Knuut Oy",
+      "startDate": "2024-01-01",
+      "endDate": "2025-05-31",
+      "position": "Co-Founder & Head of Product",
+      "summary": "Co-founded a startup developing a SaaS platform for early childhood education. Responsible for product design, implementation, and requirements gathering with pilot customers. By departure, the service had ~200 daily active users.",
+      "highlights": [
+        "Designed and launched a mobile app for substitutes to book shifts.",
+        "Built a real-time attendance app for children and staff.",
+        "Developed an admin platform to manage employees, children, substitute shifts, and payroll, with full daycare unit overview."
+      ],
+      "pinned": false
     },
     {
-      "highlights": ["RobotFramework", "Java", "Test Automation"],
-      "summary": "TODO",
-      "website": "https://evitec.com/fi/",
+      "name": "Fit Panda Technologies Oy",
+      "summary": "Member of the board",
+      "website": "https://fitpanda.fi",
       "pinned": false,
-      "name": "Profit Software Ltd (Evitec Solutions)",
-      "position": "Software Developer Trainee",
-      "startDate": "2018-06-01",
-      "endDate": "2018-08-31"
+      "position": "Partner",
+      "startDate": "2024-01-01"
     },
     {
-      "highlights": ["JavaScript", "BI"],
-      "summary": "TODO",
+      "name": "Aalto University",
+      "startDate": "2021-01-01",
+      "endDate": "2021-04-30",
+      "position": "Teaching Assistant",
+      "summary": "Teaching assistant for CS-E4800 Artificial Intelligence. Assisted students with:",
+      "highlights": ["Python programming", "Machine Learning & AI concepts"],
+      "pinned": false
+    },
+    {
+      "name": "Fit Panda Technologies Oy",
+      "summary": "Worked on multiple client and internal projects in software and system development.",
+      "website": "https://fitpanda.fi",
+      "position": "Software Developer",
+      "startDate": "2020-09-01",
+      "endDate": "2024-01-01",
+      "highlights": [
+        "Implemented Kafka Streams and UI for a monitoring app combining data from IoT devices.",
+        "Implementation of an OIDC authorization server for a client.",
+        "Contributed UI components to a design system.",
+        "Developed a mobile app for maintenance instructions and measurements.",
+        "Maintenance of systems that were not under active development."
+      ],
+      "pinned": false
+    },
+    {
+      "summary": "Advised SMEs on securing funding to navigate the COVID-19 economy. Responsible for client negotiations, sales, and project and budget planning.",
+      "name": "Sterly Oy",
+      "position": "Account Project Manager",
+      "startDate": "2020-04-01",
+      "endDate": "2020-08-31",
+      "pinned": false
+    },
+    {
+      "summary": "Supported development of services for the Equity Savings Account.",
       "website": "https://evitec.com/fi/",
-      "pinned": false,
       "name": "Profit Software Ltd (Evitec Solutions)",
       "position": "Business Intelligence Developer Trainee",
       "startDate": "2019-05-01",
-      "endDate": "2019-08-31"
+      "endDate": "2019-08-31",
+      "highlights": [
+        "Conducted a preliminary business impact study.",
+        "Facilitated customer workshops to define requirements.",
+        "Prepared project plans and documentation.",
+        "Developed a POC chatbot",
+        "Presented results to clients and internal stakeholders."
+      ],
+      "pinned": false
     },
     {
-      "highlights": ["RobotFramework", "Java", "Test Automation"],
-      "summary": "",
+      "summary": "Participated in Scrum-based project work and system automated testing.",
       "website": "https://evitec.com/fi/",
-      "pinned": false,
       "name": "Profit Software Ltd (Evitec Solutions)",
       "position": "Software Developer Trainee",
       "startDate": "2018-06-01",
-      "endDate": "2018-08-31"
+      "endDate": "2018-08-31",
+      "highlights": [
+        "Created user stories and test cases",
+        "Implemented automated tests with Robot Framework",
+        "Contributed to work planning and presented results in team meetings."
+      ],
+      "pinned": false
     },
     {
-      "highlights": ["RobotFramework", "Java", "Test Automation"],
-      "summary": "",
-      "website": "https://evitec.com/fi/",
-      "pinned": false,
-      "name": "Profit Software Ltd (Evitec Solutions)",
-      "position": "Software Developer Trainee",
-      "startDate": "2018-06-01",
-      "endDate": "2018-08-31"
+      "name": "K-Supermarket",
+      "website": "https://www.k-ruoka.fi/k-supermarket",
+      "summary": "Worked part-time during secondary and high school",
+      "position": "Cashier / Shift Manager",
+      "startDate": "2013-01-01",
+      "endDate": "2017-09-01",
+      "pinned": false
     }
   ],
   "volunteer": [
     {
       "organization": "Tietokilta Ry",
-      "position": "Account Manager",
       "url": "https://tietokilta.fi/",
+      "position": "Account Manager",
       "startDate": "2019-01-01",
       "endDate": "2019-12-01",
       "summary": "Managed relationships and negotiated partnership agreements as account manager for two of Tietokilta's partner companies."
@@ -138,14 +202,18 @@
   ],
   "interests": [
     {
-      "name": "Urheilu",
-      "keywords": ["Golf", "Jääkiekko", "Pyöräily", "Juoksu", "Kuntosali"]
+      "name": "Sports",
+      "keywords": ["Golf", "Ice Hockey", "Cycling", "Running", "Gym"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "fluency": "Native speaker"
     },
     {
-      "name": "Kesämökki"
-    },
-    {
-      "name": "Veneily"
+      "language": "English",
+      "fluency": "Fluent"
     }
   ]
 }
