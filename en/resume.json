@@ -61,14 +61,7 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [
-        "JavaScript / TypeScript",
-        "Python",
-        "Kotlin",
-        "Scala",
-        "Java",
-        "Dart"
-      ]
+      "keywords": ["JavaScript / TypeScript", "Python", "Scala", "Java", "Dart"]
     },
     {
       "name": "Frontend",
