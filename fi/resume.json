@@ -7,7 +7,7 @@
     "phone": "+358 50 405 3332",
     "label": "Full-Stack Developer",
     "image": "https://media.licdn.com/dms/image/v2/D4D03AQGs9BDccwb5eg/profile-displayphoto-crop_800_800/B4DZjgCiMdGkAI-/0/1756105418907?e=1758758400&v=beta&t=uOP8NoRqbyN1F1Tf3f7Ltzzs0uvLewHTTkneQ9YIZyg",
-    "summary": "This is a test.",
+    "summary": "Kokenut full-stack-verkkokehittäjä, joka on työskennellyt startupeissa, konsultointiprojekteissa ja in-house-tiimeissä. Hallitsen koko sovelluskehityksen elinkaaren suunnittelusta ja toteutuksesta testaukseen, käyttöönottoon ja ylläpitoon. Vahvat ongelmanratkaisutaidot, yhteistyöhön suuntautunut työote ja kyky yhdistää teknologia asiakkaiden sekä liiketoiminnan tavoitteisiin. Motivoidun jatkuvasta oppimisesta ja konkreettisten tulosten saavuttamisesta.",
     "email": "lauri.saksi@gmail.com",
     "location": {
       "city": "Espoo",
@@ -28,15 +28,15 @@
   },
   "education": [
     {
-      "institution": "Aalto University",
-      "studyType": "Bachelor's degree",
-      "area": "Computer Science",
+      "institution": "Aalto-yliopisto",
+      "studyType": "Kandidaatin tutkinto",
+      "area": "Tietotekniikka",
       "startDate": "2017-09-01",
       "endDate": "2022-11-01"
     },
     {
-      "institution": "Aalto University",
-      "studyType": "Master's degree",
+      "institution": "Aalto-yliopisto",
+      "studyType": "Maisterin tutkinto",
       "area": "Software Engineering",
       "startDate": "2023-09-01"
     },
@@ -50,17 +50,17 @@
   ],
   "references": [
     {
-      "reference": "Lauri has demonstrated that he tackles tasks enthusiastically, focusing on problem solving by selecting the appropriate tools and methods for the situation. His genuine interest in both the project at hand and in removing various obstacles is creditable. Lauri's teamwork skills and language skills are excellent. His manner of communication is positive, and he creates a cheerful atmosphere around him.",
+      "reference": "Lauri on osoittanut, että hän tarttuu asioihin innolla, ongelmanratkaisu edellä siten, että hän valitsee tilanteeseen sopivat työkalut sekä menetelmät. Hänen aito kiinnostuksensa niin työn alla olevaan projektiin, kuin erilaisten hidasteiden poistamiseen, on kiitettävää. Laurin ryhmätyöskentelytaidot ja kielitaito ovat erinomaiset. Hänen tapansa kommunikoida on positiivinen ja hän luo iloisuutta ympärilleen.",
       "name": "Petri Ikonen (Senior Project Manager)"
     },
     {
-      "reference": "Despite his young age, Lauri Saksi has demonstrated exceptional diligence, flexibility, initiative, and precision in all the tasks assigned to him. You can always rely on Lauri! You could even leave your wallet with Lauri without worrying, which hopefully illustrates how much you can trust him!",
-      "name": "Ville Saarikko (K-retailer)"
+      "reference": "Lauri Saksi on nuoresta iästään huolimatta osoittanut erinomaista ja poikkeuksellista ahkeruutta, joustavuutta, oma-aloitteellisuutta ja tarkkuutta kaikissa hänelle annetuissa työtehtävissä. Lauriin voi aina luottaa! Laurille voi huoletta jättää vaikka oman lompakon, se toivottavasti kuvaa kuinka paljon häneen pystyy luottamaan!",
+      "name": "Ville Saarikko (K-kauppias)"
     }
   ],
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "Ohjelmointikielet",
       "keywords": [
         "JavaScript / TypeScript",
         "Python",
@@ -79,7 +79,7 @@
       "keywords": ["Node", "Express", "Django"]
     },
     {
-      "name": "Cloud",
+      "name": "Pilvipalvelut",
       "keywords": ["Firebase", "GCP", "Azure"]
     },
     {
@@ -87,11 +87,11 @@
       "keywords": ["Docker", "Kubernetes", "CI/CD"]
     },
     {
-      "name": "Tools",
+      "name": "Työkalut",
       "keywords": ["Git", "Figma", "Postman"]
     },
     {
-      "name": "Operating Systems",
+      "name": "Käyttöjärjestelmät",
       "keywords": ["MacOS", "Linux"]
     }
   ],
@@ -100,50 +100,53 @@
       "name": "Knuut Oy",
       "startDate": "2024-01-01",
       "endDate": "2025-05-31",
-      "position": "Co-Founder & Head of Product",
-      "summary": "Co-founded a startup developing a SaaS platform for early childhood education. Responsible for product design, implementation, and requirements gathering with pilot customers. By departure, the service had ~200 daily active users.",
+      "position": "Perustaja & Tuotepäällikkö",
+      "summary": "Perustin startup-yrityksen, joka kehittää SaaS-alustaa varhaiskasvatukseen. Vastuussa tuotesuunnittelusta, toteutuksesta ja vaatimusten keräämisestä pilottiasiakkaiden kanssa. Lähtöhetkellä palvelulla oli noin 200 päivittäistä aktiivista käyttäjää.",
       "highlights": [
-        "Designed and launched a mobile app for substitutes to book shifts.",
-        "Built a real-time attendance app for children and staff.",
-        "Developed an admin platform to manage employees, children, substitute shifts, and payroll, with full daycare unit overview."
+        "Suunnittelin ja käynnistin mobiilisovelluksen sijaisille vuorojen varaamiseen.",
+        "Rakensin reaaliaikaisen läsnäolokirjaus-sovelluksen lapsille ja henkilökunnalle.",
+        "Kehitin hallintapalvelun työntekijöiden, lasten, sijaisvuorojen ja palkanlaskennan hallintaan, jossa on täydellinen yleiskuvaus kaikista päiväkodeista."
       ],
       "pinned": false
     },
     {
       "name": "Fit Panda Technologies Oy",
-      "summary": "Member of the board",
+      "summary": "Hallituksen jäsen",
       "website": "https://fitpanda.fi",
       "pinned": false,
       "position": "Partner",
       "startDate": "2024-01-01"
     },
     {
-      "name": "Aalto University",
+      "name": "Aalto-yliopisto",
       "startDate": "2021-01-01",
       "endDate": "2021-04-30",
-      "position": "Teaching Assistant",
-      "summary": "Teaching assistant for CS-E4800 Artificial Intelligence. Assisted students with:",
-      "highlights": ["Python programming", "Machine Learning & AI concepts"],
+      "position": "Kurssiasistentti",
+      "summary": "Kurssiasistentti kurssilla CS-E4800 - Artificial Intelligence. Avustin opiskelijoita:",
+      "highlights": [
+        "Python-ohjelmoinnissa",
+        "Koneoppimis- ja tekoälykonsepteissa"
+      ],
       "pinned": false
     },
     {
       "name": "Fit Panda Technologies Oy",
-      "summary": "Worked on multiple client and internal projects in software and system development.",
+      "summary": "Työskentelin useissa asiakas- ja sisäisissä projekteissa ohjelmistokehityksessä.",
       "website": "https://fitpanda.fi",
       "position": "Software Developer",
       "startDate": "2020-09-01",
       "endDate": "2024-01-01",
       "highlights": [
-        "Implemented Kafka Streams and UI for a monitoring app combining data from IoT devices.",
-        "Implementation of an OIDC authorization server for a client.",
-        "Contributed UI components to a design system.",
-        "Developed a mobile app for maintenance instructions and measurements.",
-        "Maintenance of systems that were not under active development."
+        "Toteutin Kafka Streams -toteutuksen ja käyttöliittymän IoT dataa tietoja yhdistävälle monitorointisovellukselle.",
+        "Tiimimme toteutti OIDC-autentikointipalvelimen.",
+        "Osallistuin käyttöliittymäkomponenttien kehittämiseen design systemiin.",
+        "Kehitin mobiilisovelluksen huoltotyönohjakseen",
+        "Ylläpidin järjestelmiä, jotka eivät olleet aktiivisessa kehityksessä."
       ],
       "pinned": false
     },
     {
-      "summary": "Advised SMEs on securing funding to navigate the COVID-19 economy. Responsible for client negotiations, sales, and project and budget planning.",
+      "summary": "Neuvoin pk-yrityksiä hankkimaan rahoitusta COVID-19 kriisissä. Vastuussa asiakasneuvotteluista, myynnistä sekä projektien ja budjetin suunnittelusta.",
       "name": "Sterly Oy",
       "position": "Account Project Manager",
       "startDate": "2020-04-01",
@@ -151,40 +154,40 @@
       "pinned": false
     },
     {
-      "summary": "Supported development of services for the Equity Savings Account.",
+      "summary": "Olin mukana kehittämässä osakesäästötiliin liittyviä palveluita.",
       "website": "https://evitec.com/fi/",
       "name": "Profit Software Ltd (Evitec Solutions)",
       "position": "Business Intelligence Developer Trainee",
       "startDate": "2019-05-01",
       "endDate": "2019-08-31",
       "highlights": [
-        "Conducted a preliminary business impact study.",
-        "Facilitated customer workshops to define requirements.",
-        "Prepared project plans and documentation.",
-        "Developed a POC chatbot",
-        "Presented results to clients and internal stakeholders."
+        "Suoritin alustavan markkina-analyysin.",
+        "Haastattelin asiakkaita vaatimusten määrittelyyn.",
+        "Valmistelin projektisuunnitelmat ja dokumentaation.",
+        "Kehitin POC-chatbotin.",
+        "Esitin tulokset asiakkaille ja sisäisille sidosryhmille."
       ],
       "pinned": false
     },
     {
-      "summary": "Participated in Scrum-based project work and system automated testing.",
+      "summary": "Osallistuin Scrum-pohjaiseen projektityöhön ja ohjelmiston automatisoituun testaukseen.",
       "website": "https://evitec.com/fi/",
       "name": "Profit Software Ltd (Evitec Solutions)",
       "position": "Software Developer Trainee",
       "startDate": "2018-06-01",
       "endDate": "2018-08-31",
       "highlights": [
-        "Created user stories and test cases",
-        "Implemented automated tests with Robot Framework",
-        "Contributed to work planning and presented results in team meetings."
+        "Kirjoitin user storyt ja testitapaukset",
+        "Toteutin automatisoituja testejä Robot Framework -työkalulla",
+        "Osallistuin työsuunnitteluun ja esitin tuloksia tiimikokouksissa."
       ],
       "pinned": false
     },
     {
       "name": "K-Supermarket",
       "website": "https://www.k-ruoka.fi/k-supermarket",
-      "summary": "Worked part-time during secondary and high school",
-      "position": "Cashier / Shift Manager",
+      "summary": "Työskentelin osa-aikaisena yläasteen ja lukion aikana",
+      "position": "Kassa / Iltavastaava",
       "startDate": "2013-01-01",
       "endDate": "2017-09-01",
       "pinned": false
@@ -197,22 +200,22 @@
       "position": "Account Manager",
       "startDate": "2019-01-01",
       "endDate": "2019-12-01",
-      "summary": "Managed relationships and negotiated partnership agreements as account manager for two of Tietokilta's partner companies."
+      "summary": "Hallinnoin asiakassuhteita ja neuvottelin kumppanuussopimuksia asiakasvastaavana kahden Tietokillan kumppaniyrityksen kanssa."
     }
   ],
   "interests": [
     {
-      "name": "Sports",
-      "keywords": ["Golf", "Ice Hockey", "Cycling", "Running", "Gym"]
+      "name": "Urheilu",
+      "keywords": ["Golf", "Jääkiekko", "Pyöräily", "Juoksu", "Kuntosali"]
     }
   ],
   "languages": [
     {
-      "language": "Finnish",
+      "language": "Suomi",
       "fluency": "Native speaker"
     },
     {
-      "language": "English",
+      "language": "Englanti",
       "fluency": "Fluent"
     }
   ]
