@@ -100,12 +100,12 @@
       "name": "Knuut Oy",
       "startDate": "2024-01-01",
       "endDate": "2025-05-31",
-      "position": "Perustaja & Tuotepäällikkö",
-      "summary": "Perustin startup-yrityksen, joka kehittää SaaS-alustaa varhaiskasvatukseen. Vastuussa tuotesuunnittelusta, toteutuksesta ja vaatimusten keräämisestä pilottiasiakkaiden kanssa. Lähtöhetkellä palvelulla oli noin 200 päivittäistä aktiivista käyttäjää.",
+      "position": "Co-Founder & Head of Product",
+      "summary": "Perustin yhdessä startup-yrityksen, joka kehittää palvelua varhaiskasvatukseen. Olin vastuussa tuotesuunnittelusta, toteutuksesta ja vaatimusten määrittelystä pilottiasiakkaan avulla. Lähtöhetkellä palvelulla oli noin 200 päivittäistä käyttäjää.",
       "highlights": [
-        "Suunnittelin ja käynnistin mobiilisovelluksen sijaisille vuorojen varaamiseen.",
+        "Suunnittelin ja kehitin mobiilisovelluksen sijaisille vuorojen varaamiseen.",
         "Rakensin reaaliaikaisen läsnäolokirjaus-sovelluksen lapsille ja henkilökunnalle.",
-        "Kehitin hallintapalvelun työntekijöiden, lasten, sijaisvuorojen ja palkanlaskennan hallintaan, jossa on täydellinen yleiskuvaus kaikista päiväkodeista."
+        "Kehitin hallintapaneelin työntekijöiden, lasten, sijaisvuorojen ja palkanlaskennan hallintaan, jossa on reaaliaikainen näkymä kaikista yksiköistä."
       ],
       "pinned": false
     },
@@ -113,9 +113,10 @@
       "name": "Fit Panda Technologies Oy",
       "summary": "Hallituksen jäsen",
       "website": "https://fitpanda.fi",
-      "pinned": false,
       "position": "Partner",
-      "startDate": "2024-01-01"
+      "startDate": "2024-01-01",
+      "endDate": "2025-12-31",
+      "pinned": false
     },
     {
       "name": "Aalto-yliopisto",
