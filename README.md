@@ -93,11 +93,11 @@ This project follows the [JSON Resume](https://jsonresume.org/) standard, which 
 
 ## 🥩 Raw Formats
 
-[JSON](registry.jsonresume.org/laurisaksi.json)
+[JSON](https://registry.jsonresume.org/laurisaksi.json)
 
-[YAML](registry.jsonresume.org/laurisaksi.yaml)
+[YAML](https://registry.jsonresume.org/laurisaksi.yaml)
 
-[TEXT](registry.jsonresume.org/laurisaksi.txt)
+[TEXT](https://registry.jsonresume.org/laurisaksi.txt)
 
 ---
 
