@@ -1,9 +1,17 @@
 name: Update Resume Gist
 
-on: push
+on: 
+  push:
+    branches: [main]
+    paths:
+      - 'en/resume.json'
+      - '.github/workflows/gist.yml'
+      - 'package.json'
+      - 'package-lock.json'
+  workflow_dispatch:
 
 jobs:
-  update-EN-resume-gist:
+  update-English-resume-gist:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
