@@ -219,5 +219,12 @@
       "language": "Englanti",
       "fluency": "Fluent"
     }
+  ],
+  "certificates": [
+    {
+      "name": "Certified ScrumMaster",
+      "date": "2025-09-16",
+      "issuer": "Scrum Alliance"
+    }
   ]
 }
